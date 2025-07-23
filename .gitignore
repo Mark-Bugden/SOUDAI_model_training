@@ -9,8 +9,5 @@ __pycache__/
 # Data
 data/
 
-# Notebooks
-notebooks/
-
 # Poetry
 poetry.lock
