@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.vscode
+
+# Data
+data/
+
+# Notebooks
+notebooks/
+
+# Poetry
+poetry.lock
