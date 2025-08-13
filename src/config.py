@@ -7,3 +7,6 @@ DATA_DIR = PROJ_ROOT / "data"
 
 # Checkpoint path
 PROCESSED_CSV_PATH = DATA_DIR / "processed_decisions.csv"
+
+# Base directory for training runs / checkpoints
+RUNS_PATH = PROJ_ROOT / "runs"

@@ -9,5 +9,11 @@ __pycache__/
 # Data
 data/
 
+# Checkpoints and run-related files
+runs/
+
 # Poetry
 poetry.lock
+
+# Scratch notebooks
+notebooks/*scratch*.ipynb
